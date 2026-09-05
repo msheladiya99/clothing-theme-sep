@@ -15,8 +15,6 @@
         "slider_item_YipJd4": {
           "type": "slider_item",
           "settings": {
-            "image": "shopify://shop_images/fs1_s1.jpg",
-            "image_mobile": "shopify://shop_images/main_demo_mb1_bb77ad31-0df0-4c7b-ad2f-b95964e57f6e.jpg",
             "overlay_opacity": 0,
             "slider_effect": "effect_fadeinup",
             "subheading": "Sweater Collection",
@@ -43,8 +41,6 @@
         "slider_item_jiLA39": {
           "type": "slider_item",
           "settings": {
-            "image": "shopify://shop_images/fs1_s3.jpg",
-            "image_mobile": "shopify://shop_images/main_demo_mb3_0aa45fce-d652-465e-9e38-11034114270f.jpg",
             "overlay_opacity": 0,
             "slider_effect": "effect_fadeinup",
             "subheading": "Season Collection",
@@ -71,8 +67,6 @@
         "slider_item_iAiXpe": {
           "type": "slider_item",
           "settings": {
-            "image": "shopify://shop_images/fs1_s2.jpg",
-            "image_mobile": "shopify://shop_images/main_demo_mb2_592f163a-e42f-4089-85db-d3e1ee71a6eb.jpg",
             "overlay_opacity": 0,
             "slider_effect": "effect_fadeinup",
             "subheading": "Look Exclusive",
@@ -140,7 +134,6 @@
           "type": "collection",
           "settings": {
             "collection": "crop-top",
-            "collection_image": "shopify://shop_images/collection_img_1.jpg",
             "collection_title": "Crop—Top"
           }
         },
@@ -148,7 +141,6 @@
           "type": "collection",
           "settings": {
             "collection": "t-shirts",
-            "collection_image": "shopify://shop_images/collection_img_2.jpg",
             "collection_title": ""
           }
         },
@@ -156,7 +148,6 @@
           "type": "collection",
           "settings": {
             "collection": "blazers",
-            "collection_image": "shopify://shop_images/blazer.jpg",
             "collection_title": ""
           }
         },
@@ -164,7 +155,6 @@
           "type": "collection",
           "settings": {
             "collection": "coats",
-            "collection_image": "shopify://shop_images/img.jpg",
             "collection_title": ""
           }
         },
@@ -172,7 +162,6 @@
           "type": "collection",
           "settings": {
             "collection": "sweaters",
-            "collection_image": "shopify://shop_images/collection_img_5.jpg",
             "collection_title": ""
           }
         },
@@ -180,7 +169,6 @@
           "type": "collection",
           "settings": {
             "collection": "hoodies",
-            "collection_image": "shopify://shop_images/collection_img_6.jpg",
             "collection_title": ""
           }
         }
@@ -240,12 +228,12 @@
         "show_view_all_button": false,
         "header_size": "medium",
         "header_alignment": "center",
-        "collection": "best-seller",
+        "collection": "cuddle",
         "items_to_show": 5,
         "items_per_row": 4,
         "column_gap": 30,
-        "show_banner": false,
-        "sticky_banner": false,
+        "show_banner": true,
+        "sticky_banner": true,
         "banner_width": 30,
         "position": "left",
         "banner_link": "",
@@ -270,7 +258,6 @@
         "idea_R96TUC": {
           "type": "idea",
           "settings": {
-            "image": "shopify://shop_images/main-images-outfit-1-min.jpg",
             "product_1": "crossover-long-sleeve-crop-top-copy",
             "product_2": "basic-sleeveless-tank-top-copy",
             "product_3": "",
@@ -281,7 +268,6 @@
         "image_with_text_overlay_mnrWaL": {
           "type": "image_with_text_overlay",
           "settings": {
-            "image": "shopify://shop_images/banner-xmani.jpg",
             "image_link": "",
             "image_overlay_opacity": 0,
             "custom_svg": "",
@@ -319,7 +305,6 @@
         "idea_4Haa8A": {
           "type": "idea",
           "settings": {
-            "image": "shopify://shop_images/main-images-outfit-4-min.jpg",
             "product_1": "back-printed-t-shirt-copy",
             "product_2": "leather-straps-sandals",
             "product_3": "",
@@ -365,21 +350,18 @@
         "scrolling_text_Bmp7bG": {
           "type": "scrolling_text",
           "settings": {
-            "image": "shopify://shop_images/scrolling-img-13.jpg",
             "content": "Express Your True Self"
           }
         },
         "scrolling_text_7defWk": {
           "type": "scrolling_text",
           "settings": {
-            "image": "shopify://shop_images/scrolling-img-1.jpg",
             "content": "Exclusive Seasonal Picks"
           }
         },
         "scrolling_text_PtA9FE": {
           "type": "scrolling_text",
           "settings": {
-            "image": "shopify://shop_images/scrolling-img-12.jpg",
             "content": "Exclusive Seasonal Picks"
           }
         }
@@ -454,7 +436,6 @@
         "testimonials_items_FQz4eH": {
           "type": "testimonials_items",
           "settings": {
-            "author_image": "shopify://shop_images/tes_home2_1.jpg",
             "author_rating": 5,
             "author_text": "<p>These are sooo pretty and very comfy. Perfect color as well. I love wearing these with a neutral top and Chelsea boots. Wicked cute...😍</p>",
             "select_product": "basic-bright-green-rib-extreme-crop",
@@ -464,7 +445,6 @@
         "testimonials_items_taknUR": {
           "type": "testimonials_items",
           "settings": {
-            "author_image": "shopify://shop_images/tes_home2_2.jpg",
             "author_rating": 5,
             "author_text": "<p>A perfect product, it keeps you very warm without over heating. True to size, I couldn't be happier with the purchase... Thank you! 🤗</p>",
             "select_product": "balloon-sleeve-blouse-square-neck",
@@ -474,7 +454,6 @@
         "testimonials_items_RV8Jjg": {
           "type": "testimonials_items",
           "settings": {
-            "author_image": "shopify://shop_images/h1-test-3.jpg",
             "author_rating": 5,
             "author_text": "<p>A fantastic purchase! The product provides just the right amount of warmth without causing overheating. Highly recommend! 😊</p>",
             "select_product": "slim-fit-basic-unpatterned-t-shirt",
@@ -563,7 +542,6 @@
         "instagram_manual_upload_WnPgR7": {
           "type": "instagram_manual_upload",
           "settings": {
-            "image": "shopify://shop_images/h1-in-1.jpg",
             "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?</p><p>#cotton #glozin #trending #sale</p>",
             "instagram_post_name": "glozin_store",
             "link": "https://www.instagram.com/p/C8MFsIuv8G6/?next=%2F&img_index=6",
@@ -610,7 +588,6 @@
         "instagram_manual_upload_XHACUJ": {
           "type": "instagram_manual_upload",
           "settings": {
-            "image": "shopify://shop_images/h1-in-2.jpg",
             "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?</p><p>#cotton #glozin #trending #sale</p>",
             "instagram_post_name": "glozin_store",
             "link": "https://www.instagram.com/p/C8MFsIuv8G6/?next=%2F&img_index=5",
@@ -634,7 +611,6 @@
         "instagram_manual_upload_iHBcAC": {
           "type": "instagram_manual_upload",
           "settings": {
-            "image": "shopify://shop_images/h1-in-3.jpg",
             "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?</p><p>#cotton #glozin #trending #sale</p>",
             "instagram_post_name": "glozin_store",
             "link": "https://www.instagram.com/p/C8MFsIuv8G6/?next=%2F&img_index=4",
@@ -681,7 +657,6 @@
         "instagram_manual_upload_iWGFPW": {
           "type": "instagram_manual_upload",
           "settings": {
-            "image": "shopify://shop_images/h1-in-4.jpg",
             "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?</p><p>#cotton #glozin #trending #sale</p>",
             "instagram_post_name": "glozin_store",
             "link": "https://www.instagram.com/p/C8MFsIuv8G6/?next=%2F&img_index=3",
@@ -779,6 +754,8 @@
         "icon_position": "top",
         "icon_size": 32,
         "spacing": 11,
+        "background": "",
+        "enable_background": false,
         "content_alignment": "center",
         "heading_font_size": 16,
         "heading_font_weight": "heading_weight",
