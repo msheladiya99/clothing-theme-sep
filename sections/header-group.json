@@ -58,7 +58,7 @@
           "type": "menu_promotion",
           "settings": {
             "text": "Home",
-            "open-link-newtab": true,
+            "open-link-newtab": false,
             "item_label": "unset",
             "promotion_menu_column": 2,
             "mega_custom_width": 860,
